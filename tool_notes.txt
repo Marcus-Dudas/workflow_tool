@@ -1,0 +1,9 @@
+This looks like a new copy of your workflow station. (SHIFT + ↑) saves whatever is in this text box, overwriting your last save. The Edit button is not yet 
+functional.
+
+Connected Desktop Apps:
+-RStudio
+-Brackets
+-PyCharm CE
+-Zotero
+-fxTrade Practice 4 (OANDA UI)
